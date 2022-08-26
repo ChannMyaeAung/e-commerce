@@ -1,5 +1,5 @@
 # e-commerce
-E-commerce website developed by html, css and vanilla javascript.
+E-commerce website developed by html, css and vanilla javascript and responsive on all devices.
 
 demo website: https://channmyaeaung.github.io/e-commerce/ 
 
